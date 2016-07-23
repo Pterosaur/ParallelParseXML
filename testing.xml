@@ -1,0 +1,11 @@
+<?hgz naive?>
+<Order date="1999-1-1">
+    <shipTo country="US">
+    <name>
+        Alice Smith
+    </name>
+    </shipTo>
+    <!--comments-->
+    <![CDATA[hgz<><>FDSFHKHF]]>
+    <hgzhgz/>
+</Order>
